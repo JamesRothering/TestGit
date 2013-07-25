@@ -1,2 +1,1 @@
-This is the first real check in of code after the initial commit with just a readme was performed on the GitHub website.
-
+2nd code commit: this is the second example section of code committed.
