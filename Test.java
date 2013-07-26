@@ -1,1 +1,1 @@
-2nd code commit: this is the second example section of code committed.
+3rd code commit example.
