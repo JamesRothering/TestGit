@@ -1,1 +1,1 @@
-this is the Monday text
+this is the Tuesday text
