@@ -1,2 +1,1 @@
-
-this is the Tuesday text another commit
+this is the Wed. text another commit
