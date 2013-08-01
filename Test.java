@@ -1,1 +1,2 @@
-this is the Wed. text another commit
+on Thurs I added this text
+
