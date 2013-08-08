@@ -1,1 +1,1 @@
-Wed. changed it
+Thurs changes to Wed. changed it
