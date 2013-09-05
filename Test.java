@@ -1,1 +1,1 @@
-Wed
+thursday
