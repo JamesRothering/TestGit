@@ -1,1 +1,1 @@
-thursday
+Friday a second commit
